@@ -23,6 +23,3 @@ La topología incluye los siguientes dispositivos:
 - **Switches:** 3  
 - **PCs:** 4  
 - **Servidor:** 1  
-
-### Diagrama ASCII aproximado
-
